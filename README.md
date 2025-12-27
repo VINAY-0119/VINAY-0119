@@ -2,18 +2,25 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;AI+%26+Cloud+Enthusiast;Building+Scalable+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Electronics+%26+Communication+Engineer;Python+Developer+%7C+Data+Science;AI+%26+Cloud+Enthusiast;Building+Innovative+Solutions)](https://git.io/typing-svg)
 
 </div>
 
 ## 🚀 About Me
 
-Electronics & Communication Engineer with a passion for **software development** and **emerging technologies**. Experienced in building full-stack applications, implementing AI solutions, and managing cloud infrastructure. Currently seeking opportunities to leverage my technical skills in innovative projects.
+**Electronics & Communication Engineering Student** (VTU, Expected 2027) with hands-on experience in **Python development**, **data science**, and **digital marketing**. Passionate about leveraging technology to solve real-world problems through **AI/ML**, **cloud computing**, and **embedded systems**.
 
-- 🎓 **B.E. in Electronics & Communication Engineering** from VTU (2027)
-- 💼 **Former Python Data Science Intern** @ TechnoHacks EduTech
-- 🌱 Currently mastering **AI integration**, **cloud computing**, and **modern web frameworks**
-- 🎯 Open to **Software Engineering**, **AI/ML**, and **Cloud roles**
+**What I Bring:**
+- 💻 Strong foundation in **programming** (Python, C/C++, MATLAB) and **data analysis**
+- 🤖 Experience with **machine learning models** and **AI integration**
+- ☁️ Knowledge of **cloud services**, **IoT systems**, and **network testing**
+- 📊 Certified by **Google**, **Microsoft**, **IBM**, and **Cisco**
+- 🎯 Proven track record in **internships** and **leadership roles**
+
+**Currently:**
+- 🔭 Building AI-powered applications and predictive models
+- 🌱 Deepening expertise in **cloud architecture** and **DevOps**
+- 👯 Open to **Software Engineering**, **Data Science**, and **AI/ML roles**
 
 ---
 
