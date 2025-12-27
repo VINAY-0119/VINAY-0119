@@ -61,44 +61,78 @@
 
 ## 💼 Professional Experience
 
-### 🔹 Python Data Science Intern
-**TechnoHacks EduTech** | *July 2025 - September 2025*
+## 💼 Professional Experience
 
-- Built **Python-based data analysis** and **ML models** for real-world applications
-- Automated dataset cleaning and preprocessing, improving efficiency
-- Created **data visualizations** and reports using **Matplotlib/Seaborn**
-- Conducted cloud simulations and dataset testing for data-driven decisions
+### 🔹 Python Data Science Intern  
+**Aisect Learn** | *July 2025 – September 2025*
 
-### 🔹 Marketing Operations Intern
-**Exposys Data Labs (AICTE)** | *September 2025 - October 2025*
+- Designed and implemented **end-to-end ML pipelines** for real-world datasets  
+- Built **regression & classification models** with accuracy optimization  
+- Performed **EDA, feature engineering, data cleaning, and model evaluation**  
+- Automated preprocessing workflows using **NumPy & Pandas**  
+- Created **interactive dashboards** using **Streamlit**  
+- Improved model performance using **feature scaling & hyperparameter tuning**  
+- Used **Git & GitHub** for version control and collaborative development  
 
-- Developed AI-assisted solutions for **education projects**
-- Integrated cloud services for storage and model deployment
-- Researched new **Power BI** and **Tableau** techniques for data visualization
+---
+
+### 🔹 AI & Cloud Intern  
+**Edunet Foundation (AICTE)** | *September 2025 – October 2025*
+
+- Developed **AI-powered educational solutions** using Python  
+- Integrated **cloud concepts** for scalable data storage & deployment  
+- Built data pipelines for **Power BI & Tableau dashboards**  
+- Worked with real-time datasets to improve **data-driven decision accuracy**  
+- Optimized AI model workflows for **performance and scalability**  
+- Documented solutions and created reusable modules for team projects  
+
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🎯 [Stock Range Predictor with Chatbot](https://github.com/yourusername/stock-predictor)
-**Tech:** Python, Scikit-learn, Streamlit
+### 🎯 Stock Range Predictor with Chatbot  
+**Tech:** Python, Scikit-learn, Streamlit, NLP
 
-Developed predictive ML model achieving **94.8% RF accuracy** (33 MAE), integrated chatbot for dynamic feature engineering and model explanations.
+- Developed ML models (Random Forest, Linear Regression) achieving **94.8% accuracy**  
+- Implemented **feature selection, normalization & hyperparameter tuning**  
+- Integrated an **AI chatbot** to explain predictions and market indicators  
+- Designed an **interactive Streamlit UI** for real-time forecasting  
+- Visualized trends, volatility & confidence intervals  
+- Reduced prediction error using optimized feature engineering  
 
-### 🤖 [AI Video-to-Notes Generator with API Integration](https://github.com/yourusername/video-notes-ai)
-**Tech:** Python, NLP, Speech-to-Text, Summarization
+---
 
-Built AI-powered solution using **Whisper** to extract, transcribe, and summarize educational video content. Integrated API-based text classification for semantic notes and organization.
+### 🤖 AI Video-to-Notes Generator  
+**Tech:** Python, Whisper, NLP, Transformers, APIs
 
-### 🏠 [IoT Home Automation & Safety System](https://github.com/yourusername/iot-home-automation)
-**Tech:** ESP8266, Blynk IoT, Gas/Flame/Motion Sensors, Relay
+- Automated **video-to-text transcription** using Whisper  
+- Applied **text summarization & keyword extraction** for concise notes  
+- Integrated APIs for **scalable processing**  
+- Implemented **semantic chunking** to improve summarization accuracy  
+- Generated structured notes for academic & technical learning  
+- Reduced manual note-taking time by **~70%**  
 
-Smart home control system via **Blynk** IoT 2.0 cloud with **8-channel relay**, integrating gas, flame, and motion sensors for automated safety alerts and appliance control.
+---
 
-### 🌟 More Projects
-- **Campus Ambassador Platform** - Led recruitment, engagement & certification for tech initiatives
-- **Technical Blog Writer** - Authored articles explaining 5G, cloud, and IoT technologies
-- **Leadership Projects** - Organized tech events, blood donation drives, SMS campaigns for social causes
+### 🏠 IoT Home Automation & Safety System  
+**Tech:** ESP8266, Blynk IoT 2.0, Sensors, Embedded C
+
+- Built a **cloud-controlled smart home automation system**  
+- Integrated **gas, flame & motion sensors** for real-time safety alerts  
+- Designed **8-channel relay control** for appliances  
+- Enabled **mobile-based monitoring & control** using Blynk Cloud  
+- Implemented event-based automation logic  
+- Optimized sensor calibration to minimize false alerts  
+
+---
+
+### 🌟 Additional Projects & Activities
+
+- **Campus Ambassador Platform:** Managed onboarding, engagement & certifications  
+- **Technical Blogging:** Authored articles on **5G, AI, Cloud & IoT**  
+- **Leadership & Volunteering:** Organized tech events, blood donation drives & outreach programs  
+
 
 ---
 
