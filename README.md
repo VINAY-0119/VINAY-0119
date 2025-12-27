@@ -157,8 +157,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?
+ 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VinayKumarR&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
