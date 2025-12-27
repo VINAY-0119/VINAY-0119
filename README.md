@@ -1,9 +1,141 @@
-<h1 align="center">Hi 👋, I'm Vinay Kumar R</h1>
-<h3 align="center">Tech-driven ECE undergraduate specializing in Python development, AI/ML, Data Analytics, and Smart IoT solutions. Hands-on experience creating machine learning models, data-driven applications, AI automation tools, and embedded systems with real-world impact. A fast learner and collaborative problem solver, continuously upskilling through industry-recognized certifications and practical projects.</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- ================= NEON ANIMATED HEADER ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=900&color=00FFF0&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Vinay+Kumar+R;ECE+Engineer+%7C+Python+Developer;AI+%26+Data+Science+Enthusiast;IoT+%26+Smart+Systems+Builder" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFF0,100:8A2BE2&height=4"/>
+</p>
+
+---
+
+## 👨‍💻 Professional Profile
+🎓 **B.E. Electronics & Communication Engineering (VTU)**  
+🚀 **Aspiring Software | AI | Data | IoT Engineer**
+
+I am a motivated and detail-oriented engineering student with strong hands-on experience in **Python development, Artificial Intelligence, Machine Learning, Data Science, and Embedded IoT systems**. I specialize in building **real-world, end-to-end solutions**—from data preprocessing and model development to deployment and visualization.
+
+Backed by certifications from **Google, Microsoft, IBM, and Cisco**, I bring a strong problem-solving mindset, technical depth, and continuous learning attitude.
+
+---
+
+## 🧠 Technical Expertise
+
+### 💻 Programming & Core
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,sql,matlab,latex" />
+</p>
+
+### 🤖 AI • ML • Data
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-00FFF0?style=for-the-badge&logo=scikitlearn&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Numpy-8A2BE2?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-00FFF0?style=for-the-badge&logo=pandas&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power%20BI-8A2BE2?style=for-the-badge&logo=powerbi&logoColor=white"/>
+</p>
+
+### 🌐 Web • Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,streamlit" />
+</p>
+
+### 🔌 IoT & Embedded
+<p>
+  <img src="https://img.shields.io/badge/ESP32-00FFF0?style=for-the-badge&logo=espressif&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Arduino-8A2BE2?style=for-the-badge&logo=arduino&logoColor=white"/>
+</p>
+
+---
+
+## 💼 Professional Experience
+
+### 🚀 Python Data Science Intern  
+🗓️ **July 2025 – September 2025**
+- Developed Python-based ML models for real-world datasets  
+- Performed data cleaning, feature engineering, and visualization  
+- Built insights using **NumPy, Pandas, Matplotlib, Scikit-learn**  
+- Collaborated and maintained code using **GitHub**
+
+---
+
+### ☁️ AI & Cloud Intern  
+🗓️ **September 2025 – October 2025**
+- Designed AI/ML solutions for educational applications  
+- Deployed models using **Python & Scikit-learn**  
+- Created dashboards and analytics using **Power BI**  
+- Documented workflows and version control using GitHub
+
+---
+
+## 🚀 Key Projects
+
+### ⚡ EV Smart Range Predictor
+- Built a regression-based EV range prediction system  
+- Achieved **96.8% R² accuracy**  
+- Implemented interactive UI using **Streamlit**  
+**Tech:** Python, Scikit-learn, Streamlit
+
+---
+
+### 🎥 AI Video-to-Notes Generator
+- Converted educational videos into structured notes  
+- Implemented **Speech-to-Text & NLP summarization**  
+- Automated keyword extraction and formatting  
+**Tech:** Python, NLP, Speech-to-Text
+
+---
+
+### 🏠 IoT Smart Home Automation & Safety
+- Designed automation and safety systems using ESP modules  
+- Integrated gas, flame, and motion sensors  
+- Enabled real-time monitoring and alerts  
+**Tech:** ESP8266, ESP32, Sensors, IoT
+
+---
+
+## 🏆 Leadership & Activities
+- Coordinator for college technical & cultural events  
+- Campus Ambassador – Kickstart Initiative  
+- Active participant in hackathons & technical workshops  
+- NSS Volunteer – Blood donation & community service
+
+---
+
+## 📜 Certifications
+- Career Essentials in Business Analysis – **Microsoft**
+- Google Analytics Certified – **Google**
+- Gemini Certified Student – **Google**
+- Fundamentals of Machine Learning – **Microsoft**
+- Artificial Intelligence Fundamentals – **IBM**
+- Cybersecurity Essentials – **Cisco**
+
+---
+
+## 📊 GitHub Performance
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VinayKumarR&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinayKumarR&theme=radical&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 📬 Connect With Me
+<p align="center">
+  <a href="mailto:vinaykumar81@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00FFF0?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+  <a href="https://linkedin.com/in/vinay-kumar-r">
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/VinayKumarR">
+    <img src="https://img.shields.io/badge/GitHub-00FFF0?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFF0&height=120&section=footer"/>
+</p>
+
+⭐ **If you like my profile, feel free to connect or explore my repositories.**
