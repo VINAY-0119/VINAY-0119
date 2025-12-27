@@ -121,19 +121,8 @@
 - Designed **8-channel relay control** for appliances  
 - Enabled **mobile-based monitoring & control** using Blynk Cloud  
 - Implemented event-based automation logic  
-- Optimized sensor calibration to minimize false alerts  
-
----
-
-### 🌟 Additional Projects & Activities
-
-- **Campus Ambassador Platform:** Managed onboarding, engagement & certifications  
-- **Technical Blogging:** Authored articles on **5G, AI, Cloud & IoT**  
-- **Leadership & Volunteering:** Organized tech events, blood donation drives & outreach programs  
-
-
----
-
+- Optimized sensor calibration to minimize false alerts
+- 
 ## 📜 Certifications & Achievements
 
 <div align="center">
