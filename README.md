@@ -1,12 +1,8 @@
 # Hi there, I'm Vinay Kumar R 👋  
 
-<div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Electronics+%26+Communication+Engineer;Python+Developer+%7C+Data+Science;AI+%26+Cloud+Enthusiast;Building+Innovative+Solutions)](https://git.io/typing-svg)
-  
-  <p align="center">
-    <b>Final-year ECE student specializing in Python, AI/ML, and Cloud — building scalable, data-driven solutions.</b>
-  </p>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Electronics+%26+Communication+Engineer;Python+Developer+%7C+Data+Science;AI+%26+Cloud+Enthusiast;Building+Innovative+Solutions)](https://git.io/typing-svg)
+
+**Final-year ECE student specializing in Python, AI/ML, and Cloud — building scalable, data-driven solutions.**
 
 ---
 
@@ -113,16 +109,14 @@ Passionate about **Python development, AI/ML, and Cloud Computing**, creating **
 
 ## 📜 Certifications & Achievements
 
-<div align="center">
 | Certification | Issuer |
 |---------------|--------|
-| 🥇 **Career Essentials in Business Analysis** | Microsoft |
-| 🥇 **Career Essentials in GitHub** | Microsoft |
-| 🥇 **Generative AI** | Microsoft |
-| 🥈 **Google Certified Marketer** | Google |
-| 🥈 **Introduction to Cybersecurity** | Cisco |
-| 🥉 **Data Warehouse Fundamentals** | IBM |
-</div>
+| 🥇 Career Essentials in Business Analysis | Microsoft |
+| 🥇 Career Essentials in GitHub | Microsoft |
+| 🥇 Generative AI | Microsoft |
+| 🥈 Google Certified Marketer | Google |
+| 🥈 Introduction to Cybersecurity | Cisco |
+| 🥉 Data Warehouse Fundamentals | IBM |
 
 - 🏆 **Campus Ambassador** for tech initiatives  
 - 📊 **Technical Blog Author** - 5G, Cloud Computing, IoT
@@ -131,34 +125,22 @@ Passionate about **Python development, AI/ML, and Cloud Computing**, creating **
 
 ## 📈 GitHub Stats
 
-<div align="center">
 ![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=VINAY-0119&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VINAY-0119&layout=compact&theme=tokyonight&hide_border=true)
-</div>
 
 ---
 
 ## 🤝 Let's Connect & Collaborate
 
-<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-kumar-r-9676bb2a0)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VINAY-0119)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rvinaykumar817@gmail.com)  
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917975777724)
-</div>
 
 ---
 
-<div align="center">
-### 💡 *"Building innovative solutions at the intersection of software, AI, and hardware"*  
-![Profile Views](https://komarev.com/ghpvc/?username=VINAY-0119&color=00D9FF&style=for-the-badge)
-</div>
+**"Building innovative solutions at the intersection of software, AI, and hardware"**
 
----
-
-<div align="center">
-🚀 **Actively seeking internships and full-time roles in:**  
-**Software Engineering | Data Science | AI/ML | Cloud Computing**  
-
-📩 *Open to collaborations, internships, and research opportunities.*
-</div>
+**Actively seeking internships and full-time roles in:**  
+Software Engineering | Data Science | AI/ML | Cloud Computing  
+Open to collaborations, internships, and research opportunities.
