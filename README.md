@@ -4,23 +4,30 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Electronics+%26+Communication+Engineer;Python+Developer+%7C+Data+Science;AI+%26+Cloud+Enthusiast;Building+Innovative+Solutions)](https://git.io/typing-svg)
 
+<p align="center">
+  <b>Final-year ECE student specializing in Python, AI/ML, and Cloud — building scalable, data-driven solutions.</b>
+</p>
+
 </div>
+
+---
 
 ## 🚀 About Me
 
-**Electronics & Communication Engineering Student** (VTU, Expected 2027) with hands-on experience in **Python development**, **data science**, and **digital marketing**. Passionate about leveraging technology to solve real-world problems through **AI/ML**, **cloud computing**, and **embedded systems**.
+🎓 **Electronics & Communication Engineering Student** (VTU, 2027) with strong expertise in **Python development**, **data science**, and **AI-driven applications**. I specialize in building **scalable, real-world solutions** that bridge **software, AI, and hardware systems**.
 
-**What I Bring:**
-- 💻 Strong foundation in **programming** (Python, C/C++, MATLAB) and **data analysis**
-- 🤖 Experience with **machine learning models** and **AI integration**
-- ☁️ Knowledge of **cloud services**, **IoT systems**, and **network testing**
-- 📊 Certified by **Google**, **Microsoft**, **IBM**, and **Cisco**
-- 🎯 Proven track record in **internships** and **leadership roles**
+### 💡 What I Bring:
+- 💻 Strong programming foundation in **Python, C/C++, MATLAB**
+- 📊 Hands-on experience in **data analysis, ML models & predictive systems**
+- 🤖 Practical exposure to **AI/ML pipelines and NLP-based applications**
+- ☁️ Working knowledge of **cloud platforms, IoT & embedded systems**
+- 🏅 Industry-recognized certifications from **Google, Microsoft, IBM & Cisco**
+- 👥 Leadership experience through internships & campus initiatives
 
-**Currently:**
-- 🔭 Building AI-powered applications and predictive models
-- 🌱 Deepening expertise in **cloud architecture** and **DevOps**
-- 👯 Open to **Software Engineering**, **Data Science**, and **AI/ML roles**
+### 🎯 Currently:
+- 🔭 Developing **AI-powered applications** and **ML models**
+- 🌱 Learning **Cloud Architecture & DevOps fundamentals**
+- 🤝 Actively seeking **Software, Data Science & AI/ML opportunities**
 
 ---
 
@@ -84,7 +91,6 @@
 - Optimized AI model workflows for **performance and scalability**  
 - Documented solutions and created reusable modules for team projects  
 
-
 ---
 
 ## 🏆 Featured Projects
@@ -92,12 +98,11 @@
 ### 🎯 Stock Range Predictor with Chatbot  
 **Tech:** Python, Scikit-learn, Streamlit, NLP
 
-- Developed ML models (Random Forest, Linear Regression) achieving **94.8% accuracy**  
-- Implemented **feature selection, normalization & hyperparameter tuning**  
+- Achieved **94.8% prediction accuracy**, reducing error through optimized feature engineering  
+- Improved model performance using **hyperparameter tuning & cross-validation**  
+- Enhanced usability with an **interactive Streamlit dashboard**  
 - Integrated an **AI chatbot** to explain predictions and market indicators  
-- Designed an **interactive Streamlit UI** for real-time forecasting  
 - Visualized trends, volatility & confidence intervals  
-- Reduced prediction error using optimized feature engineering  
 
 ---
 
@@ -122,7 +127,9 @@
 - Enabled **mobile-based monitoring & control** using Blynk Cloud  
 - Implemented event-based automation logic  
 - Optimized sensor calibration to minimize false alerts
-- 
+
+---
+
 ## 📜 Certifications & Achievements
 
 <div align="center">
@@ -138,14 +145,25 @@
 
 </div>
 
-- 🏆 **Campus Ambassador** for tech initiatives
-- 📊 **Technical Blog Author** - 5G, Cloud Computing, IoT technologies
+📌 *All certifications emphasize hands-on learning, real-world projects, and industry-aligned skills.*
+
+- 🏆 **Campus Ambassador** for tech initiatives  
+- 📊 **Technical Blog Author** - 5G, Cloud Computing, IoT technologies  
 
 ---
 
+## 📈 GitHub Stats
 
+<div align="center">
 
-## 📫 Let's Connect
+![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=VINAY-0119&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VINAY-0119&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
@@ -168,4 +186,11 @@
 
 ---
 
-⭐️ **Open to opportunities in Software Engineering, AI/ML, Cloud Computing, and Data Science**
+<div align="center">
+
+🚀 **Actively seeking internships and full-time roles in:**  
+**Software Engineering | Data Science | AI/ML | Cloud Computing**  
+
+📩 *Open to collaborations, internships, and research opportunities.*
+
+</div>
