@@ -6,10 +6,8 @@
 
 ---
 
-## 🚀 About Me
-
-🎓 **Electronics & Communication Engineering Student** (VTU, 2027)  
-Passionate about **Python development, AI/ML, and Cloud Computing**, creating **real-world solutions** that bridge **software, AI, and hardware systems**.
+## 🚀 About Me 
+Electronics & Communication Engineering  with a strong foundation in Python, AI/ML, and Cloud Computing. Passionate about designing and delivering scalable, data-driven solutions that bridge software, AI, and hardware systems. Experienced in building end-to-end ML pipelines, AI-powered applications, IoT systems, and cloud-deployed solutions, with a proven record of delivering impactful projects. Actively seeking internships and full-time opportunities in Software Engineering, Data Science, AI/ML, and Cloud Computing, while continuously learning and contributing to innovative technology solutions.
 
 ### 💡 Key Strengths
 - 💻 Strong foundation in **Python, C/C++, MATLAB**
