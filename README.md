@@ -61,8 +61,6 @@
 
 ## 💼 Professional Experience
 
-## 💼 Professional Experience
-
 ### 🔹 Python Data Science Intern  
 **Aisect Learn** | *July 2025 – September 2025*
 
@@ -160,11 +158,11 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinayKumarR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VinayKumarR&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinayKumarR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+
 
 </div>
 
