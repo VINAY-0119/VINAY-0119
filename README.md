@@ -1,4 +1,4 @@
-# Hi there, I'm Vinay Kumar R 👋  
+rvinaykumar817@gmail.com 7975777724 https://github.com/VINAY-0119/VINAY-0119.git www.linkedin.com/in/vinay-kumar-r-9676bb2a0 add my details to  # Hi there, I'm Vinay Kumar R 👋  
 
 <div align="center">
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Electronics+%26+Communication+Engineer;Python+Developer+%7C+Data+Science;AI+%26+Cloud+Enthusiast;Building+Innovative+Solutions)](https://git.io/typing-svg)
@@ -141,9 +141,9 @@ Passionate about **Python development, AI/ML, and Cloud Computing**, creating **
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-kumar-r-9676bb2a0)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VINAY-0119)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rvinaykumar817@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/VinayKumarR)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VinayKumarR)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinaykumar687@gmail.com)  
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917975777724)
 </div>
 
@@ -151,7 +151,7 @@ Passionate about **Python development, AI/ML, and Cloud Computing**, creating **
 
 <div align="center">
 ### 💡 *"Building innovative solutions at the intersection of software, AI, and hardware"*  
-![Profile Views](https://komarev.com/ghpvc/?username=VINAY-0119&color=00D9FF&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=VinayKumarR&color=00D9FF&style=for-the-badge)
 </div>
 
 ---
