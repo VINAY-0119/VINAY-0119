@@ -119,14 +119,6 @@ Electronics & Communication Engineering  with a strong foundation in Python, AI/
 - 🏆 **Campus Ambassador** for tech initiatives  
 - 📊 **Technical Blog Author** - 5G, Cloud Computing, IoT
 
----
-
-## 📈 GitHub Stats
-
-![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=VINAY-0119&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VINAY-0119&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 🤝 Let's Connect & Collaborate
 
