@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Electronics+%26+Communication+Engineer;Python+Developer+%7C+Data+Science;AI+%26+Cloud+Enthusiast;Building+Innovative+Solutions)](https://git.io/typing-svg)
 
-**Final-year ECE student specializing in Python, AI/ML, and Cloud — building scalable, data-driven solutions.**
+**Electronics & Communication Engineering student specializing in Python, AI/ML, and Cloud — building scalable, data-driven solutions.**
 
 ---
 
