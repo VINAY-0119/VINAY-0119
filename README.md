@@ -1,4 +1,4 @@
-rvinaykumar817@gmail.com 7975777724 https://github.com/VINAY-0119/VINAY-0119.git www.linkedin.com/in/vinay-kumar-r-9676bb2a0 add my details to  # Hi there, I'm Vinay Kumar R 👋  
+# Hi there, I'm Vinay Kumar R 👋  
 
 <div align="center">
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Electronics+%26+Communication+Engineer;Python+Developer+%7C+Data+Science;AI+%26+Cloud+Enthusiast;Building+Innovative+Solutions)](https://git.io/typing-svg)
