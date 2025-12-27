@@ -1,141 +1,221 @@
-<!-- ================= NEON ANIMATED HEADER ================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=900&color=00FFF0&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Vinay+Kumar+R;ECE+Engineer+%7C+Python+Developer;AI+%26+Data+Science+Enthusiast;IoT+%26+Smart+Systems+Builder" />
-</p>
+# 👋 Hi, I'm Vinay Kumar R
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFF0,100:8A2BE2&height=4"/>
-</p>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Python+Data+Science+Enthusiast;Full+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
 
----
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedInUsername)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourGitHubUsername)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinaykumar6519@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
 
-## 👨‍💻 Professional Profile
-🎓 **B.E. Electronics & Communication Engineering (VTU)**  
-🚀 **Aspiring Software | AI | Data | IoT Engineer**
-
-I am a motivated and detail-oriented engineering student with strong hands-on experience in **Python development, Artificial Intelligence, Machine Learning, Data Science, and Embedded IoT systems**. I specialize in building **real-world, end-to-end solutions**—from data preprocessing and model development to deployment and visualization.
-
-Backed by certifications from **Google, Microsoft, IBM, and Cisco**, I bring a strong problem-solving mindset, technical depth, and continuous learning attitude.
+</div>
 
 ---
 
-## 🧠 Technical Expertise
+## 🚀 About Me
 
-### 💻 Programming & Core
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,sql,matlab,latex" />
-</p>
+> **B.E. in Electronics & Communication Engineering** | **VTU** | **Expected 2027**  
+> Passionate about leveraging **AI/ML** and **Data Science** to solve real-world problems
 
-### 🤖 AI • ML • Data
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-00FFF0?style=for-the-badge&logo=scikitlearn&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Numpy-8A2BE2?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-00FFF0?style=for-the-badge&logo=pandas&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Power%20BI-8A2BE2?style=for-the-badge&logo=powerbi&logoColor=white"/>
-</p>
+I'm a tech enthusiast with expertise in **Python**, **Machine Learning**, **Deep Learning**, and **Full Stack Development**. Currently exploring advanced concepts in **Computer Vision**, **NLP**, and **AI-driven applications**.
 
-### 🌐 Web • Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,git,github,streamlit" />
-</p>
+```python
+class VinayKumarR:
+    def __init__(self):
+        self.name = "Vinay Kumar R"
+        self.role = "AI/ML Engineer & Developer"
+        self.location = "Karnataka, India"
+        self.education = "B.E. ECE @ VIT, Kochi"
+        self.interests = ["AI/ML", "Data Science", "IoT", "Web Dev"]
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
 
-### 🔌 IoT & Embedded
-<p>
-  <img src="https://img.shields.io/badge/ESP32-00FFF0?style=for-the-badge&logo=espressif&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Arduino-8A2BE2?style=for-the-badge&logo=arduino&logoColor=white"/>
-</p>
+me = VinayKumarR()
+me.say_hi()
+```
 
 ---
 
 ## 💼 Professional Experience
 
-### 🚀 Python Data Science Intern  
-🗓️ **July 2025 – September 2025**
-- Developed Python-based ML models for real-world datasets  
-- Performed data cleaning, feature engineering, and visualization  
-- Built insights using **NumPy, Pandas, Matplotlib, Scikit-learn**  
-- Collaborated and maintained code using **GitHub**
+### 🔬 Python Data Science Intern
+**AICTE / IIITB, India** | *July 2025 - September 2025*
+
+- 🎯 Developed advanced ML models for real-world applications with **95%+ accuracy**
+- 📊 Preprocessed datasets using **Pandas, NumPy, Matplotlib**
+- 🧠 Applied deep learning with **Scikit-learn** for optimal performance
+- 🔧 Engineered scalable data pipelines using **Git/GitHub**
+
+### 🤖 AI & ML Intern
+**Smart Knower, India** | *September 2025 - October 2025*
+
+- 🚀 Developed AI and cloud solutions for education projects
+- 💡 Designed intelligent apps using **Python**, **Scikit-learn**, **TensorFlow**
+- 📈 Built dashboards with **Power BI** and **Python**
+- ☁️ Trained models and documented workflows on **Git, GitHub**
 
 ---
 
-### ☁️ AI & Cloud Intern  
-🗓️ **September 2025 – October 2025**
-- Designed AI/ML solutions for educational applications  
-- Deployed models using **Python & Scikit-learn**  
-- Created dashboards and analytics using **Power BI**  
-- Documented workflows and version control using GitHub
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Web Technologies
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+</div>
 
 ---
 
-## 🚀 Key Projects
+## 🏆 Featured Projects
 
-### ⚡ EV Smart Range Predictor
-- Built a regression-based EV range prediction system  
-- Achieved **96.8% R² accuracy**  
-- Implemented interactive UI using **Streamlit**  
-**Tech:** Python, Scikit-learn, Streamlit
+### 🎯 EV Smart Range Predictor with Chatbot
+*Python, Scikit-learn, Streamlit*
 
----
+- Predicts electric vehicle range using **LSTM & RNN** with **93.84%** accuracy
+- Interactive chatbot for real-time user queries and troubleshooting
+- Comprehensive analysis with **24+ models** tested for optimal performance
 
-### 🎥 AI Video-to-Notes Generator
-- Converted educational videos into structured notes  
-- Implemented **Speech-to-Text & NLP summarization**  
-- Automated keyword extraction and formatting  
-**Tech:** Python, NLP, Speech-to-Text
+**Tech Stack:** Python, TensorFlow, Streamlit, Pandas, NumPy
 
 ---
 
-### 🏠 IoT Smart Home Automation & Safety
-- Designed automation and safety systems using ESP modules  
-- Integrated gas, flame, and motion sensors  
-- Enabled real-time monitoring and alerts  
-**Tech:** ESP8266, ESP32, Sensors, IoT
+### 🎨 AI Voice-to-Video Generator with API Integration
+*Python, NLP, Computer Vision, Text-to-Speech*
+
+- Transforms spoken descriptions into visual content using **NLP algorithms**
+- Integrates distributed APIs on **speech-to-text**, **NLP**, **video generation**
+- Seamless user experience with automated workflow and optimizations
+
+**Tech Stack:** Python, Flask, OpenAI API, FFmpeg
 
 ---
 
-## 🏆 Leadership & Activities
-- Coordinator for college technical & cultural events  
-- Campus Ambassador – Kickstart Initiative  
-- Active participant in hackathons & technical workshops  
-- NSS Volunteer – Blood donation & community service
+### 🏠 IoT Home Automation & Safety System
+*ESP32, React, IoT, Real-time Monitoring*
+
+- Smart home system with lights controlled via **2-channel relay** and **ESP8266**
+- Developed custom mobile app for seamless control and safety alerts
+- Real-time monitoring for enhanced safety with alert notifications
+
+**Tech Stack:** ESP32, React Native, Firebase, MQTT
 
 ---
 
-## 📜 Certifications
-- Career Essentials in Business Analysis – **Microsoft**
-- Google Analytics Certified – **Google**
-- Gemini Certified Student – **Google**
-- Fundamentals of Machine Learning – **Microsoft**
-- Artificial Intelligence Fundamentals – **IBM**
-- Cybersecurity Essentials – **Cisco**
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E97F7&icon_color=2E97F7)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E97F7)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight&hide_border=true&background=0D1117&ring=2E97F7&fire=2E97F7&currStreakLabel=2E97F7)
+
+</div>
 
 ---
 
-## 📊 GitHub Performance
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VinayKumarR&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinayKumarR&theme=radical&hide_border=true" height="165"/>
-</p>
+## 🎓 Certifications & Learning
+
+- 🏅 **Career Essentials in Business Analysis** - Microsoft
+- 🏅 **Career Essentials in Generative AI** - Microsoft  
+- 🏅 **Crash Course on Python** - Google (Coursera)
+- 🏅 **Fundamentals of Machine Learning** - Microsoft
+- 🏅 **Applied Machine Learning in Python** - University of Michigan (Coursera)
 
 ---
 
-## 📬 Connect With Me
-<p align="center">
-  <a href="mailto:vinaykumar81@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00FFF0?style=for-the-badge&logo=gmail&logoColor=black"/>
-  </a>
-  <a href="https://linkedin.com/in/vinay-kumar-r">
-    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/VinayKumarR">
-    <img src="https://img.shields.io/badge/GitHub-00FFF0?style=for-the-badge&logo=github&logoColor=black"/>
-  </a>
-</p>
+## 🌟 Extra Curricular Activities
+
+- 🎤 **Campus Ambassador** for IvTech industries
+- 🤝 Participated in multiple **hackathons** and **problem-solving** competitions
+- 💻 **Active contributor** to open-source projects and tech communities
+- 🎯 Volunteered with **NSS** and campus-based donation drives
+- 🎪 Organized college tech events and cultural activities
+- 🏝️ Completed **island cleaning** drives at Cochin
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFF0&height=120&section=footer"/>
-</p>
+## 📈 Contribution Graph
 
-⭐ **If you like my profile, feel free to connect or explore my repositories.**
+<div align="center">
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E97F7&line=2E97F7&point=FFFFFF)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```javascript
+const currentlyWorkingOn = {
+    learning: ["Advanced Deep Learning", "Computer Vision", "MLOps"],
+    building: ["AI-powered Applications", "IoT Solutions"],
+    exploring: ["Generative AI", "Cloud Architecture", "Edge Computing"],
+    contributing: ["Open Source Projects", "Tech Communities"]
+};
+```
+
+---
+
+## 💡 Fun Facts
+
+- 🌱 Currently learning advanced **Generative AI** techniques
+- 🎯 Goal: Contribute to impactful **AI research** and **open-source** projects  
+- 💬 Ask me about **Python**, **Machine Learning**, **IoT**, or **Web Development**
+- ⚡ Fun fact: I love solving complex problems with simple, elegant solutions!
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+I'm always open to interesting conversations and collaboration opportunities!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YourLinkedInUsername)
+[![Email](https://img.shields.io/badge/Email-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinaykumar6519@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+
+---
+
+### ⭐ From [VinayKumarR](https://github.com/YourGitHubUsername)
+
+![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=2E97F7&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+  
+  **"Code is like humor. When you have to explain it, it's bad."** – Cory House
+  
+</div>
